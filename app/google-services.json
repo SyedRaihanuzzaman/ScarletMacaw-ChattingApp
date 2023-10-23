@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852585100341",
+    "project_id": "scarlet-macaw-70627",
+    "storage_bucket": "scarlet-macaw-70627.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852585100341:android:36999e15d831d9419b6d7c",
+        "android_client_info": {
+          "package_name": "com.raihan.scarletmacaw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZqhUpkHYDYJIVDg4qg8rWLZQwtoO6I7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
