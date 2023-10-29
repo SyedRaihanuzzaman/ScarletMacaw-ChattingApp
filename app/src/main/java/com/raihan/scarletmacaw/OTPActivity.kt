@@ -47,7 +47,7 @@ class OTPActivity : AppCompatActivity() {
                 }
 
                 override fun onVerificationFailed(p0: FirebaseException) {
-
+                    TODO("Not yet implemented")
                 }
 
                 override fun onCodeSent(verifid:String, foreceResendingToken: ForceResendingToken){
